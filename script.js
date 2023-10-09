@@ -12,7 +12,7 @@ const player0El = document.querySelector(".player--0");
 const player1El = document.querySelector(".player--1");
 
 
-//initial conditions
+//initial conditionshjg
 let scores, activePlayer,currentScore,playing;
 function init (){
  scores = [0,0] ;
